@@ -1,12 +1,11 @@
 package main
 
 import (
-	"flag"
-
 	"code.google.com/p/go-uuid/uuid"
 	"github.com/Manozco/cards"
 )
 
+import "flag"
 import "fmt"
 import "strings"
 import "math/rand"
